@@ -2,3 +2,6 @@
 *.o
 tempCodeRunnerFile.cpp
 .vscode/
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
+temp/
