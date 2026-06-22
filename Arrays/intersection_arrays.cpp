@@ -13,7 +13,7 @@ void intersection2(int a1[],int a2[],int size1,int size2){
             j++;
         }
     } 
-}
+}//method 1
 
 
 void intersection1(int a1[],int a2[],int size1,int size2){
@@ -26,7 +26,7 @@ void intersection1(int a1[],int a2[],int size1,int size2){
             break;
         }
     }
-}
+}//method2
 }
 int main(){
     int arr[4]={1,2,2,3};
